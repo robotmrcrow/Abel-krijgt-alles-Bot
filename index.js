@@ -24,7 +24,7 @@ for (const file of commandFiles) {
 client.once("ready", () => {
 
     console.log(`${client.user.username} is online`);
-    client.user.setActivity("is dom | help | Code: https://abelr.tk/akab", { type: "PLAYING" });
+    client.user.setActivity("is dom | %help | Code: https://abelr.tk/akab", { type: "PLAYING" });
 
 });
 
