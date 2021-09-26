@@ -1,0 +1,20 @@
+{
+  "name": "abel-krijgt-alles-bot",
+  "version": "1.0.0",
+  "description": "dicord bot discord abel krijgt alles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [
+    "discord",
+    "youtube",
+    "bot"
+  ],
+  "author": "Abel van Hulst",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  }
+}
